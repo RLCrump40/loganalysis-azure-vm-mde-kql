@@ -7,6 +7,7 @@ In this project, I will create a Windows Virtual Machine and connect to it using
 - Microsoft Azure Virtual Machine
 - Microsoft Defender for Endpoint (MDE)
 - Remote Desktop Protocol (RDP)
+- Powershell
 - Kusto Query Language (KQL)
 
 ## **Walk-through:**
@@ -14,4 +15,17 @@ In this project, I will create a Windows Virtual Machine and connect to it using
 Step 1) Windows 11 Pro VM Creation and Successful Deployment
 <img width="1905" height="1152" alt="VM Creation" src="https://github.com/user-attachments/assets/fcab71a2-ce23-4e0a-bfa5-d7339b45ad74" />
 <img width="1909" height="1161" alt="Successfully Deployed VM" src="https://github.com/user-attachments/assets/42017c2e-a0d8-43ee-8856-d6f3b1b24804" />
+
+Step 2) RDP into VM 
+<img width="1159" height="707" alt="RDP into VM" src="https://github.com/user-attachments/assets/ad5ccd33-f908-41ea-9ee4-d18731d32a9b" />
+
+Step 3) Successfully Connected to Virtual Machine via RDP with Test File Created
+<img width="1907" height="1191" alt="Successful VM Connection with Test File" src="https://github.com/user-attachments/assets/d09cea56-a80c-4a33-bbaa-99dbb8cdb138" />
+
+Step 4) MDE Successfully Onboarded to VM using Powershell
+<img width="1892" height="1200" alt="Endpoint  Onboarded Successfully to MDE" src="https://github.com/user-attachments/assets/871fe6fa-06c2-402b-9707-09387c33716f" />
+
+
+
+
 
