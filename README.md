@@ -8,3 +8,10 @@ In this project, I will create a Windows Virtual Machine and connect to it using
 - Microsoft Defender for Endpoint (MDE)
 - Remote Desktop Protocol (RDP)
 - Kusto Query Language (KQL)
+
+## **Walk-through:**
+
+Step 1) Windows 11 Pro VM Creation and Successful Deployment
+<img width="1905" height="1152" alt="VM Creation" src="https://github.com/user-attachments/assets/fcab71a2-ce23-4e0a-bfa5-d7339b45ad74" />
+<img width="1909" height="1161" alt="Successfully Deployed VM" src="https://github.com/user-attachments/assets/42017c2e-a0d8-43ee-8856-d6f3b1b24804" />
+
