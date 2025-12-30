@@ -4,3 +4,5 @@ In this project, I will create a Windows Virtual Machine and connect to it using
 
 ## **Technology Used:**
 
+- Microsoft Azure Virtual Machine
+- Microsoft Defender for Endpoint (MDE)
