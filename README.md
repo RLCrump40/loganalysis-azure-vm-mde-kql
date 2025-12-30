@@ -31,6 +31,8 @@ In this project, I will create a Windows Virtual Machine and connect to it using
 ## Step 6) Used KQL query to successfully find log date using MDE
 <img width="1914" height="1155" alt="Observed Log Data " src="https://github.com/user-attachments/assets/8e0670fe-7b75-4c7e-ae4f-ccd957c7efd5" />
 
+## Step 7) VM was deallocated upon completion of this project and restarted for future labs (Not Pictured)
+
 
 
 
