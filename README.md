@@ -6,3 +6,5 @@ In this project, I will create a Windows Virtual Machine and connect to it using
 
 - Microsoft Azure Virtual Machine
 - Microsoft Defender for Endpoint (MDE)
+- Remote Desktop Protocol (RDP)
+- Kusto Query Language (KQL)
