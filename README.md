@@ -28,10 +28,10 @@ In this project, I will create a Windows Virtual Machine and connect to it using
 ## Step 5) Test File Created For MDE Log Data
 <img width="1911" height="1192" alt="MDE Test File" src="https://github.com/user-attachments/assets/0e7aa96e-a386-419e-a274-df5b8ee92f9c" />
 
-## Step 6) Used KQL query to successfully find log date using MDE
+## Step 6) Used KQL Query to Successfully Find Log Date using MDE
 <img width="1914" height="1155" alt="Observed Log Data " src="https://github.com/user-attachments/assets/8e0670fe-7b75-4c7e-ae4f-ccd957c7efd5" />
 
-## Step 7) VM was deallocated upon completion of this project and restarted for future labs (Not Pictured)
+## Step 7) VM was deallocated upon Completion of this Project and Restarted for Future Labs (Not Pictured)
 
 
 
